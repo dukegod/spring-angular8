@@ -1,6 +1,11 @@
-# UserRegistrationClient
+# spring angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.3.
+
+## 文件说明
+
++ 后端服务：registration-service
++ 前端界面：src
 
 ## Development server
 
